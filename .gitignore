@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+cache/
+*.html
+paragraphs_all.csv
+.DS_Store
+.idea/
