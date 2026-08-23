@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
+matplotlib
+linearmodels
+scikit-learn
+openpyxl
+openai
