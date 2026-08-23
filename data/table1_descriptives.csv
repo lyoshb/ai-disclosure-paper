@@ -1,0 +1,9 @@
+Variable,N,Mean,SD,P25,Median,P75
+AI paragraphs (count),3755,2.421,4.059,0.0,1.0,3.0
+Deployment paragraphs (count),3755,0.624,1.641,0.0,0.0,0.0
+Deployment share,3755,0.123,0.269,0.0,0.0,0.0
+Mentions AI (0/1),3755,0.644,0.479,0.0,1.0,1.0
+Return on assets,3416,0.068,0.084,0.024,0.056,0.105
+Sales growth,3003,0.106,0.3,0.006,0.066,0.146
+Log assets,3737,24.028,1.363,23.105,23.957,24.833
+Leverage,3737,0.755,0.293,0.543,0.764,1.0
