@@ -2,7 +2,8 @@
 
 Replication code and data for Balabanov (2026).
 
-**Paper:** https://doi.org/10.5281/zenodo.22066569  
+**Paper (SSRN):** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7339038  
+**Paper (Zenodo):** https://doi.org/10.5281/zenodo.22066569  
 **Data:** https://doi.org/10.5281/zenodo.22066664  
 **Author:** Oleksii Balabanov ([ORCID](https://orcid.org/0009-0009-9039-3699))
 
@@ -95,6 +96,14 @@ Running the full pipeline downloads roughly 4,000 filings and takes several hour
 Model names and availability change over time. Results reported in the paper were produced in August 2026.
 
 ## Citation
+
+```
+Balabanov, O. (2026). Talk or Deployment? AI Disclosure and the Limits
+of Text-Based Adoption Measures. SSRN Working Paper 7339038.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7339038
+```
+
+Archived version with DOI:
 
 ```
 Balabanov, O. (2026). Talk or Deployment? AI Disclosure and the Limits
